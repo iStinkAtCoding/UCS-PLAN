@@ -1,0 +1,1 @@
+This Lisp routine automates the UCS and PLAN commands for AutoCAD applications. When the Plan command is done it zooms back to the orignal view center and view center and view size as it was when the command UE was initiated.
