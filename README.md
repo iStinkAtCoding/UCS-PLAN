@@ -8,3 +8,6 @@ This Lisp routine automates the UCS and PLAN commands for AutoCAD applications. 
 2) Type "UE" into the command line (whatever view you have here, excluding view rotation, will be restored at the end of routine)
 3) Type UCS name to save
 4) Select points for origin, x axis, and XY Plane (similar to UCS command inputs)
+
+## User Feedback and Personal Improvement
+Although this routine is simple, I feel it could be used by others as I could not find something similar online. I would love to hear feedback or help with any modifications someone may need.
